@@ -58,3 +58,5 @@ jobs:
           git add README.md
           git commit -m "Update README with latest stats"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
