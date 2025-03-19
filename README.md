@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://discord.gg/zS7TpV3p64">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76CEEC&random=false&width=435&lines=Discord+Server" alt="Discord Server" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76CEC&random=false&width=435&lines=eggs;something;idk;random;:p;bruh" alt="Animated Text" />
   </a>
 </h1>
 
