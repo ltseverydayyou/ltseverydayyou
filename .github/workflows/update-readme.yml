@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -57,6 +59,4 @@ jobs:
         run: |
           git add README.md
           git commit -m "Update README with latest stats"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push https://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@github.com/ltseverydayyou/ltseverydayyou.git
