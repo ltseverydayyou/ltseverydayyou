@@ -85,9 +85,4 @@
     alt="Productive Time"
   />
   <img width="12" />
-  <img
-    src="https://metrics.lecoq.io/ltseverydayyou?template=classic&theme=dark"
-    height="150"
-    alt="GitHub Metrics Infographic"
-  />
 </div>
