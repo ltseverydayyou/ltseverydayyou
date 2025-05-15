@@ -36,7 +36,7 @@
   </a>
   <img width="12" />
   <a href="https://discord.gg/zzjYhtMGFD">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" height="40" alt="Discord" />
   </a>
 </div>
 
