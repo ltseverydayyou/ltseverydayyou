@@ -36,7 +36,7 @@
   </a>
   <img width="12" />
   <a href="https://discord.gg/zzjYhtMGFD">
-    <img src="https://img.shields.io/discord/1371485672589754420?label=Discord%20Server&logo=discord&style=for-the-badge" height="40" alt="Discord Server" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord" />
   </a>
 </div>
 
