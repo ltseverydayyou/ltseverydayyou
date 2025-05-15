@@ -17,6 +17,30 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
+  <img width="12" />
+  <a href="https://scriptblox.com/u/Aervanix">
+    <img src="https://r2.guns.lol/7e671c9b-1689-4d72-a5e5-b972f7d7fb09.png" height="40" alt="ScriptBlox" />
+  </a>
+  <img width="12" />
+  <a href="https://rscripts.net/@ltseverydayyou">
+    <img src="https://r2.guns.lol/b9234319-f7c7-4b19-840e-600a2044d401.png" height="40" alt="RScripts" />
+  </a>
+  <img width="12" />
+  <a href="https://guns.lol/ltseverydayyou">
+    <img src="https://assets.guns.lol/guns_logo_no_background_cropped.png" height="40" alt="guns.lol" />
+  </a>
+  <img width="12" />
+  <a href="https://discord.gg/zzjYhtMGFD">
+    <img src="https://img.shields.io/discord/1371485672589754420?label=Discord%20Server&logo=discord&style=for-the-badge" height="40" alt="Discord Server" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
