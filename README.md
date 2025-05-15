@@ -4,6 +4,16 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://discord.com/users/641335879381680129">
+    <img
+      src="https://lanyard.cnrad.dev/api/641335879381680129?theme=dark&animated=true"
+      height="150"
+      alt="Discord Presence"
+    />
+  </a>
+</div>
+
 ###
 
 <div align="center">
@@ -84,14 +94,4 @@
     height="150"
     alt="Productive Time"
   />
-</div>
-
-<div align="center">
-  <a href="https://discord.com/users/641335879381680129">
-    <img
-      src="https://lanyard.cnrad.dev/api/641335879381680129?theme=dark&animated=true"
-      height="150"
-      alt="Discord Presence"
-    />
-  </a>
 </div>
