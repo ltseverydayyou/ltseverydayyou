@@ -4,6 +4,8 @@
   </a>
 </div>
 
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -16,7 +18,18 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ltseverydayyou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img width="12" />
   <img src="https://streak-stats.demolab.com?user=ltseverydayyou&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width="12" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ltseverydayyou&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=🏆%20GitHub%20Trophies&card_width=240&hide_border=false&export=trophy" height="120" alt="GitHub Trophies" />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true&custom_title=🛠️%20PRs%20%26%20Issues&metrics=issues,prs,pr_reviews&card_width=240" height="120" alt="PRs & Issues" />
+  <img width="12" />
+  <img src="https://gh-readme-stats.vercel.app/api/contribution?username=ltseverydayyou&show_icons=true&theme=dark&card_width=240&hide_border=false" height="120" alt="Contribution Breakdown" />
 </div>
