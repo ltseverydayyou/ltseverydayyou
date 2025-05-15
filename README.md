@@ -18,49 +18,25 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou
-      &hide_title=false
-      &hide_rank=false
-      &show_icons=true
-      &include_all_commits=true
-      &count_private=true
-      &disable_animations=false
-      &theme=dark
-      &locale=en
-      &hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
     height="150"
     alt="GitHub Stats"
   />
   <img width="12" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ltseverydayyou
-      &locale=en
-      &hide_title=false
-      &layout=compact
-      &card_width=320
-      &langs_count=5
-      &theme=dark
-      &hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ltseverydayyou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
     height="150"
     alt="Top Languages"
   />
   <img width="12" />
   <img
-    src="https://streak-stats.demolab.com?user=ltseverydayyou
-      &locale=en
-      &mode=weekly
-      &theme=dark
-      &hide_border=false
-      &border_radius=5"
+    src="https://streak-stats.demolab.com?user=ltseverydayyou&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5"
     height="150"
     alt="Streak Stats"
   />
   <img width="12" />
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ltseverydayyou
-      &radius=16
-      &theme=chartreuse-dark
-      &area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ltseverydayyou&radius=16&theme=chartreuse-dark&area=true"
     height="150"
     alt="Activity Graph"
   />
@@ -68,26 +44,13 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou
-      &show_icons=true
-      &theme=dark
-      &include_all_commits=true
-      &count_private=true
-      &custom_title=🏆%20GitHub%20Trophies
-      &export=trophy"
+    src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=🏆%20GitHub%20Trophies&export=trophy"
     height="150"
     alt="GitHub Trophies"
   />
   <img width="12" />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou
-      &show_icons=true
-      &theme=dark
-      &hide_border=false
-      &count_private=true
-      &include_all_commits=true
-      &custom_title=🛠️%20PRs%20%26%20Issues
-      &metrics=issues,prs,pr_reviews"
+    src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true&custom_title=🛠️%20PRs%20%26%20Issues&metrics=issues,prs,pr_reviews"
     height="150"
     alt="PRs & Issues"
   />
