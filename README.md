@@ -84,5 +84,14 @@
     height="150"
     alt="Productive Time"
   />
-  <img width="12" />
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/641335879381680129">
+    <img
+      src="https://lanyard.cnrad.dev/api/641335879381680129?theme=dark&animated=true"
+      height="150"
+      alt="Discord Presence"
+    />
+  </a>
 </div>
