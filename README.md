@@ -16,7 +16,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ltseverydayyou/ltseverydayyou/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ltseverydayyou/ltseverydayyou/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
 
