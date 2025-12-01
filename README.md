@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
   <img width="12" />
-  <a href="https://scriptblox.com/u/Aervanix">
+  <a href="https://scriptblox.com/u/Vyperia">
     <img src="https://r2.guns.lol/7e671c9b-1689-4d72-a5e5-b972f7d7fb09.png" height="40" alt="ScriptBlox" />
   </a>
   <img width="12" />
