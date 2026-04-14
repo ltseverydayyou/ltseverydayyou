@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#120018">
-        <animate attributeName="stop-color" values="#120018;#6D28D9;#000000;#120018" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#120018;#6D28D9;#FF4DA6;#120018" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="50%" stop-color="#6D28D9">
-        <animate attributeName="stop-color" values="#6D28D9;#000000;#120018;#6D28D9" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#6D28D9;#FF4DA6;#120018;#6D28D9" dur="6s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#000000">
-        <animate attributeName="stop-color" values="#000000;#120018;#6D28D9;#000000" dur="6s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#FF4DA6">
+        <animate attributeName="stop-color" values="#FF4DA6;#120018;#6D28D9;#FF4DA6" dur="6s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
@@ -35,6 +35,6 @@
     fill="url(#textGradient)"
     filter="url(#softGlow)"
   >
-    ltseverydayyou
+    Vyperia (@ltseverydayyou)
   </text>
 </svg>
