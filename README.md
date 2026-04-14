@@ -54,8 +54,8 @@
 <p align="center">
   <a href="https://discord.gg/zzjYhtMGFD">
     <img
-      src="https://invidget.switchblade.xyz/zzjYhtMGFD"
-      alt="Discord server invite"
+      src="./assets/discord-server-card.svg"
+      alt="Discord server"
     />
   </a>
 </p>
@@ -65,7 +65,7 @@
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ltseverydayyou&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ltseverydayyou&theme=tokyonight"
     alt="GitHub stats"
   />
   <img
@@ -77,17 +77,14 @@
 
 <p align="center">
   <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltseverydayyou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ltseverydayyou&theme=tokyonight"
     alt="Top languages"
   />
-</p>
-
-<p align="center">
   <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ltseverydayyou&bg_color=00000000&color=70A5FD&line=38BDAE&point=BF91F3&area=true&hide_border=true"
-    alt="Contribution activity graph"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltseverydayyou&theme=tokyonight"
+    alt="Profile details"
   />
 </p>
 
