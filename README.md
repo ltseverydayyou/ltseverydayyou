@@ -1,4 +1,6 @@
-<h1 align="center">ltseverydayyou</h1>
+<p align="center">
+  <img src="./assets/ltseverydayyou-banner.svg" alt="ltseverydayyou" />
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/641335879381680129">
@@ -22,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/luau-lang/site/master/logo.svg" height="40" alt="LuaU" />
 </p>

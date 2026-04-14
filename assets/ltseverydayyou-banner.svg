@@ -1,0 +1,40 @@
+<svg width="900" height="140" viewBox="0 0 900 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#120018">
+        <animate attributeName="stop-color" values="#120018;#6D28D9;#000000;#120018" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#6D28D9">
+        <animate attributeName="stop-color" values="#6D28D9;#000000;#120018;#6D28D9" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#000000">
+        <animate attributeName="stop-color" values="#000000;#120018;#6D28D9;#000000" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <filter id="softGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="140" rx="24" fill="#050505" fill-opacity="0.04" />
+
+  <text
+    x="50%"
+    y="52%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
+    font-size="58"
+    font-weight="700"
+    letter-spacing="2"
+    fill="url(#textGradient)"
+    filter="url(#softGlow)"
+  >
+    ltseverydayyou
+  </text>
+</svg>
