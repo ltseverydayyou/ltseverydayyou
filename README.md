@@ -64,25 +64,20 @@
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ltseverydayyou&theme=tokyonight"
-    alt="GitHub stats"
-  />
-  <img
-    width="49%"
+    width="48%"
     src="https://streak-stats.demolab.com?user=ltseverydayyou&theme=tokyonight&hide_border=true&background=00000000"
     alt="GitHub streak"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ltseverydayyou&theme=tokyonight"
+    alt="Top languages"
   />
 </p>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ltseverydayyou&theme=tokyonight"
-    alt="Top languages"
-  />
-  <img
-    width="49%"
+    width="96%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltseverydayyou&theme=tokyonight"
     alt="Profile details"
   />
