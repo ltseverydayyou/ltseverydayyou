@@ -51,6 +51,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/zzjYhtMGFD">
+    <img
+      src="https://invidget.switchblade.xyz/zzjYhtMGFD"
+      alt="Discord server invite"
+    />
+  </a>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
