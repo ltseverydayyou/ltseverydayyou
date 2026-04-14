@@ -1,0 +1,26 @@
+<svg width="180" height="52" viewBox="0 0 180 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="scriptblox-glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="scriptblox-bg" x1="0" y1="0" x2="180" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#191424" />
+      <stop offset="1" stop-color="#0B0912" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="176" height="48" rx="14" fill="url(#scriptblox-bg)" />
+  <rect x="2.5" y="2.5" width="175" height="47" rx="13.5" fill="none" stroke="#8C7DFF" stroke-width="2" stroke-dasharray="18 10" filter="url(#scriptblox-glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="3.3s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0.68;1;0.68" dur="2.4s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="12" y="10" width="32" height="32" rx="10" fill="#8C7DFF" fill-opacity="0.16" />
+  <image x="16" y="14" width="24" height="24" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAKlBMVEVHcEyMff+Mff+Mff+Mff+Mff+Mff+Mff+Mff+Mff+Mff+Mff+Mff+Mff+DauQDAAAADXRSTlMADCUyVXCDlae50uP08LyTjQAAANZJREFUeNq109GKxSAMRdGjbdUk7v//3UG5t0ylMk+znncIBKJ/l/SHUx/56xhy/k6apgtWpiGhodJLuR6MkKQ2g4xrkYFLOphBIWthgEvQ5wa0YlCHsg8oHUi7IEoDqNoErQaD3oNkMB2ffA0umKregiwZk+s1IIkp9BpcnJmh6z0I/GRImwAIoCe9BwdTnNoEJ4Ob7YILwMQ2KECR9oHBoUdgEZ0Y3KM1mvQM4NYt/NQaOB9uzYyiNShMvZrFfeCDqhtPLil1km6ZhQc8DplqPHn79QY/CpcP6IEQ6YUAAAAASUVORK5CYII=" />
+
+  <text x="56" y="31" fill="#F6F1FF" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="15" font-weight="700">ScriptBlox</text>
+</svg>

@@ -4,19 +4,22 @@
 
 <p align="center">
   <a href="https://discord.com/users/641335879381680129">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="./assets/buttons/discord-button.svg" alt="Discord" />
   </a>
   <a href="https://open.spotify.com/user/316a6txgaro3ethw6pochw3uripy">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="./assets/buttons/spotify-button.svg" alt="Spotify" />
   </a>
   <a href="https://scriptblox.com/u/Vyperia">
-    <img src="https://img.shields.io/badge/ScriptBlox-111111?style=for-the-badge&logoColor=white&labelColor=111111" alt="ScriptBlox" />
+    <img src="./assets/buttons/scriptblox-button.svg" alt="ScriptBlox" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://rscripts.net/@ltseverydayyou">
-    <img src="https://img.shields.io/badge/RScripts-0F172A?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="RScripts" />
+    <img src="./assets/buttons/rscripts-button.svg" alt="RScripts" />
   </a>
   <a href="https://guns.lol/ltseverydayyou">
-    <img src="https://img.shields.io/badge/guns.lol-18181B?style=for-the-badge&logoColor=white&labelColor=18181B" alt="guns.lol" />
+    <img src="./assets/buttons/gunslol-button.svg" alt="guns.lol" />
   </a>
 </p>
 

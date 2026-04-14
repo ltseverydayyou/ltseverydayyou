@@ -1,0 +1,28 @@
+<svg width="180" height="52" viewBox="0 0 180 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="discord-glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="discord-bg" x1="0" y1="0" x2="180" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A2F" />
+      <stop offset="1" stop-color="#0C0F1A" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="176" height="48" rx="14" fill="url(#discord-bg)" />
+  <rect x="2.5" y="2.5" width="175" height="47" rx="13.5" fill="none" stroke="#5865F2" stroke-width="2" stroke-dasharray="18 10" filter="url(#discord-glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="3.2s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="2.4s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="12" y="10" width="32" height="32" rx="10" fill="#5865F2" fill-opacity="0.18" />
+  <path d="M34.4 18.5C32.4 17 30.3 16.3 30.3 16.3L29.8 17.1C31.7 17.5 32.6 18.2 32.6 18.2C30.7 17.2 28.8 16.9 27 16.9C25.2 16.9 23.3 17.2 21.4 18.2C21.4 18.2 22.3 17.5 24.2 17.1L23.7 16.3C23.7 16.3 21.6 17 19.6 18.5C17 22.4 16.3 26.2 16.3 26.2C18.2 27.6 20.1 28.4 20.1 28.4L21.5 26.1C20.7 25.8 20 25.4 19.4 25C19.5 25.1 19.7 25.2 19.8 25.2C22.3 26.4 24.9 26.8 27 26.8C29.1 26.8 31.7 26.4 34.2 25.2C34.3 25.2 34.5 25.1 34.6 25C34 25.4 33.3 25.8 32.5 26.1L33.9 28.4C33.9 28.4 35.8 27.6 37.7 26.2C37.7 26.2 37 22.4 34.4 18.5Z" fill="#F5F7FF" />
+  <circle cx="23.8" cy="22.6" r="1.8" fill="#5865F2" />
+  <circle cx="30.2" cy="22.6" r="1.8" fill="#5865F2" />
+
+  <text x="56" y="31" fill="#F5F7FF" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="15" font-weight="700">Discord</text>
+</svg>

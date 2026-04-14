@@ -1,0 +1,26 @@
+<svg width="180" height="52" viewBox="0 0 180 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="guns-glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="guns-bg" x1="0" y1="0" x2="180" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#221521" />
+      <stop offset="1" stop-color="#120B13" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="176" height="48" rx="14" fill="url(#guns-bg)" />
+  <rect x="2.5" y="2.5" width="175" height="47" rx="13.5" fill="none" stroke="#C084FC" stroke-width="2" stroke-dasharray="18 10" filter="url(#guns-glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="3.2s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0.68;1;0.68" dur="2.4s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="12" y="10" width="32" height="32" rx="10" fill="#C084FC" fill-opacity="0.14" />
+  <image x="16" y="14" width="24" height="24" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA9JJREFUeNq9lkmIHFUYxz81oqBRJBgl6kFwOXhSvIiigWh37T01SYMTF0QkihCR2O/Vq56ervdqm+kZlBgmjB70oGJkhFxEL254EBHEgyIumAVCSIaEXLJv0/kelVReF0Nm6an5wUd1UV3v2/7vewVlMLp59A6q831o//hWvA2vB6ghfgjqO2+FlSCuv3cPqQbnG9Wgq5pniA9gJWiaSbWhiePSKZHOK2jVdlfeN2vJi4CUV3pDfH7FWX7Ng0DTghPMGX1g+bN2kucI9jrPGk35XWgFn4Llgrw0fgsuOPlOtT2rOsRgfhx24seZFQXFAKgRvg/LAXPTJ6jO/y04OI/Kp5zz67vd7nXMjuKrz/isZ4YfefWx26EfdmzdcRMz+Rip8h6lE03sHRlMnwQkqI/fTc3w6zxrnR/2a+km6BcU0KNUF3+oAttWac9iWac8p7MaEM8KNxONH1UzT1+eXAP9sGXLhzdiRm1c+KyqbDlwmm6yAZBkaPtdnil2F3tOdDED/TCycewRYojfSKVX3Z4VfRy8ENyWVSapE50fyR0rFWKWSGEpTNenb6BWRLHXp9VFsQqHmBW7gIyhoJghPskdKyar5dnR67AUWoPjD3qG+Ll30fYsM8MpHwcOIP5A+kxDD/YrzwsBBCd2vrnI+S+3D26jt4gmThaynmkOJDogE7j3mRVtx6l2IXeoCI7Z0TQ+uyjvh+24BgvFd9OH5AApZI2DQ3zB3fG1mcKTp4jW/r8nUxlkRYot+I/VomcBwXd+b2Q6mVzgKI2fbmj8TK96+SHfiRxA+Hq+CjPjjWqWNVHLje/hgBH8FXEzXAbvJ2Tw2Ma/YCFQg79bcP5nG4cJIK1a52Gq81/U56oxJ34DCrBa8trldc7JiTi/6Nxwvczu6uQS37WHOuuoGY1gP09d2fek54jNDLPdpe4c1IePAjyZzX3xKyyUph1tzUorLZjP8v9RjR/vvNpZLT9EqMl/UoR7pDmYPAaLgZriyzyASp7pvIa93i0dKlX5NJAtXCx+Pb1Tbrk8AEVwhcrMGZychsyON0I/tNx0IHOMlvXxANF6Tr45v3iwCt8Hg517YTnw7fBtXPAbNpBl05LngRYcy7NWs6/kZRdQJp4Vdq6lA6rzPXKSQlngKN4wV+bqve+kDpQFZreK6uLgXNmTXP3Rt1AmzBBp0bm6beUhNPx8fB+URcuO7lcnZjEQgkFQK9oEZUKN8Cul78U5cJg6nXVQJi1nVMudK7OAmuIz303XQNnI080zxN/Kp9fMcC12YSVhthjydL7P08Nd3J1Yu9R1LgFLF3oZUAMlkQAAAABJRU5ErkJggg==" />
+
+  <text x="56" y="31" fill="#F9F2FF" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="15" font-weight="700">guns.lol</text>
+</svg>
