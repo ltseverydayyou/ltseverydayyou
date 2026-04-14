@@ -18,6 +18,32 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/316a6txgaro3ethw6pochw3uripy">
+    <img
+      src="https://spotify-recently-played-readme.vercel.app/api?user=316a6txgaro3ethw6pochw3uripy&count=3&unique=true"
+      alt="Spotify recently played"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/641335879381680129">
+    <img
+      src="https://lanyard.cnrad.dev/api/641335879381680129?theme=dark&animated=true"
+      alt="Discord presence"
+    />
+  </a>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
@@ -57,24 +83,3 @@
     alt="Snake animation"
   />
 </p>
-
-<details>
-  <summary><strong>Live Presence</strong></summary>
-  <br />
-  <p align="center">
-    <a href="https://open.spotify.com/user/316a6txgaro3ethw6pochw3uripy">
-      <img
-        src="https://spotify-recently-played-readme.vercel.app/api?user=316a6txgaro3ethw6pochw3uripy&count=3&unique=true"
-        alt="Spotify recently played"
-      />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://discord.com/users/641335879381680129">
-      <img
-        src="https://lanyard.cnrad.dev/api/641335879381680129?theme=dark&animated=true"
-        alt="Discord presence"
-      />
-    </a>
-  </p>
-</details>
