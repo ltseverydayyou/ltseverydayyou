@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://open.spotify.com/user/316a6txgaro3ethw6pochw3uripy">
     <img
-      src="https://spotify-recently-played-readme.vercel.app/api?user=316a6txgaro3ethw6pochw3uripy&count=3&unique=true&v=20260626085411"
+      src="https://spotify-recently-played-readme.vercel.app/api?user=316a6txgaro3ethw6pochw3uripy&count=3&unique=true&v=20260626141102"
       alt="Spotify recently played"
     />
   </a>
@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://discord.com/users/641335879381680129">
     <img
-      src="https://lanyard.cnrad.dev/api/641335879381680129?theme=dark&animated=true&v=20260626085411"
+      src="https://lanyard.cnrad.dev/api/641335879381680129?theme=dark&animated=true&v=20260626141102"
       alt="Discord presence"
     />
   </a>
@@ -65,12 +65,12 @@
 <p align="center">
   <img
     width="48%"
-    src="https://streak-stats.demolab.com?user=ltseverydayyou&theme=tokyonight&hide_border=true&background=00000000&v=20260626085411"
+    src="https://streak-stats.demolab.com?user=ltseverydayyou&theme=tokyonight&hide_border=true&background=00000000&v=20260626141102"
     alt="GitHub streak"
   />
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ltseverydayyou&theme=tokyonight&v=20260626085411"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ltseverydayyou&theme=tokyonight&v=20260626141102"
     alt="Top languages"
   />
 </p>
@@ -78,7 +78,7 @@
 <p align="center">
   <img
     width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltseverydayyou&theme=tokyonight&v=20260626085411"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltseverydayyou&theme=tokyonight&v=20260626141102"
     alt="Profile details"
   />
 </p>
